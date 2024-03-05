@@ -5,7 +5,7 @@ export default function Footer() {
     return (
         <div className="footer ">
             <div className="main flex gap-4 flex-col flex-1 md:flex-row md:justify-center pt-16 md:pb-16 md:gap-0 xl:justify-around bg-darkbg px-8">
-                <div className="connect md:w-[40%]">
+                <div className="connectt md:w-[40%]">
                     <h1 className=" font-inter text-3xl font-light bg-gradient-to-r from-sky-300 via-rose-500 to-blue-900 text-transparent bg-clip-text">
                         LET&apos;S TALK
                     </h1>
