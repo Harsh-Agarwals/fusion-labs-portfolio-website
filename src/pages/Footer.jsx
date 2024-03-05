@@ -15,8 +15,8 @@ export default function Footer() {
                     </p>
                     <Button text="Mail Us" type="stay" />
                 </div>
-                <div className="smx flex flex-col sm:flex-row sm:me-14 md:me-0 md:gap-10">
-                    <div className="explore sm:pt-8 sm:pb-12 pt-14 md:pt-0 md:justify-center flex flex-1 flex-row gap-10 md:gap-5">
+                <div className="smx flex flex-col sm:flex-row sm:me-14 md:me-0 md:gap-10 lg:gap-16 xl:gap-20">
+                    <div className="explore sm:pt-8 sm:pb-12 pt-14 md:pt-0 md:justify-center flex flex-1 flex-row gap-10 lg:gap-16 md:gap-5">
                         <div className="about">
                             <h1 className="py-2 md:py-0 md:pb-2 tracking-wide font-semibold text-lg text-blue-400">
                                 About Us
