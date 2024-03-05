@@ -8,6 +8,9 @@ export default {
                 darkbg: "#0D021B",
                 darkbg2: "#5a081c",
             },
+            fontFamily: {
+                inter: ["Inter"],
+            },
         },
     },
     plugins: [],
