@@ -2,6 +2,7 @@ import "./App.css";
 import Header from "./pages/Header";
 import Navbar from "./Components/Navbar";
 import Features from "./pages/Features";
+import Footer from "./pages/Footer";
 
 function App() {
     return (
@@ -12,6 +13,9 @@ function App() {
             </div>
             <div className="section">
                 <Features />
+            </div>
+            <div className="footer">
+                <Footer />
             </div>
         </>
     );

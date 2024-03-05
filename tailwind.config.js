@@ -6,7 +6,7 @@ export default {
         extend: {
             colors: {
                 darkbg: "#0D021B",
-                darkbg2: "#5a081c",
+                darkbg2: "rgb(1 19 39)",
             },
             fontFamily: {
                 inter: ["Inter"],
