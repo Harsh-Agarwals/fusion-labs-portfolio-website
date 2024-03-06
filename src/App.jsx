@@ -1,8 +1,9 @@
 import "./App.css";
-import Header from "./pages/Header";
+import Header from "./sections/Header";
 import Navbar from "./Components/Navbar";
-import Features from "./pages/Features";
-import Footer from "./pages/Footer";
+import Features from "./sections/Features";
+import Footer from "./sections/Footer";
+import Subscription from "./sections/Subscription";
 
 function App() {
     return (
@@ -13,6 +14,9 @@ function App() {
             </div>
             <div className="section">
                 <Features />
+            </div>
+            <div className="subscription">
+                <Subscription />
             </div>
             <div className="footer">
                 <Footer />

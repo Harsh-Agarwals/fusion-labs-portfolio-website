@@ -127,7 +127,7 @@ export default function Footer() {
                 </div>
                 <div className="sm flex flex-row sm:pt-0 pt-2 gap-[2px]">
                     <div>
-                        <div className="p-1 bg-sky-500 hover:bg-blue-600">
+                        <div className="p-1 bg-sky-500 hover:bg-sky-300">
                             <a href="/">
                                 <img
                                     src={smIcons.Email}
@@ -138,7 +138,7 @@ export default function Footer() {
                         </div>
                     </div>
                     <div>
-                        <div className="p-1 bg-sky-500 hover:bg-blue-600">
+                        <div className="p-1 bg-sky-500 hover:bg-sky-300">
                             <a href="/">
                                 <img
                                     src={smIcons.PhoneCall}
@@ -149,7 +149,7 @@ export default function Footer() {
                         </div>
                     </div>
                     <div>
-                        <div className="p-1 bg-sky-500 hover:bg-blue-600">
+                        <div className="p-1 bg-sky-500 hover:bg-sky-300">
                             <a href="/">
                                 <img
                                     src={smIcons.Whatsapp}

@@ -9,10 +9,12 @@ import Star from "../assets/Icons/star.png";
 import Email from "../assets/Icons/phonecall.png";
 import PhoneCall from "../assets/Icons/email.png";
 import Whatsapp from "../assets/Icons/whatsapp.png";
+import Shopify from "../assets/Icons/shopify.png";
 
 export const featureString = [
     ["Fast Shipping", Rocket],
     ["24/7 Support", CustomerService],
+    ["Shopify Stores", Shopify],
     ["SEO Optimization", Ranking],
     ["AI Functionality", AI],
     ["Chatbot Integrations", Chatbot],
