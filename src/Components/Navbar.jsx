@@ -38,7 +38,7 @@ export default function Navbar() {
             </div>
             <div className="menu-list flex items-center">
                 <ul
-                    className={`${navStatus} text-lg md:text-base md:flex flex-1 flex-row align-middle justify-between md:gap-8 lg:gap-12 text-cyan-400`}
+                    className={`${navStatus} text-lg md:text-base md:flex flex-1 flex-row align-middle justify-between md:gap-4 lg:gap-10 xl:gap-12 text-cyan-400`}
                 >
                     <li className="p-4 border-b-2 md:p-0 md:border-none border-slate-600 tracking-wider font-mono font-normal text-normal">
                         <a
@@ -62,6 +62,14 @@ export default function Navbar() {
                             className="hover:text-rose-500 cursor-pointer"
                         >
                             Services
+                        </a>
+                    </li>
+                    <li className="p-4 border-b-2 md:p-0 md:border-none border-slate-600 tracking-wider font-mono font-normal  text-normal">
+                        <a
+                            href="/"
+                            className="hover:text-rose-500 cursor-pointer"
+                        >
+                            Blogs
                         </a>
                     </li>
                     <li className="p-4 border-b-2 md:p-0 md:border-none border-slate-600 tracking-wider font-mono font-normal  text-normal">
