@@ -33,6 +33,8 @@ export default function Header() {
                                         2000,
                                         "Ads & Marketing",
                                         3500,
+                                        "Designing",
+                                        2500,
                                     ]}
                                     repeat={Infinity}
                                     speed={1}

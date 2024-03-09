@@ -12,6 +12,59 @@ import Whatsapp from "../assets/Icons/whatsapp.png";
 import Shopify from "../assets/Icons/shopify.png";
 import Money from "../assets/Icons/money.png";
 import RightArrow from "../assets/Icons/right-arrow.png";
+import Sparkles from "../assets/sparkles.svg";
+
+// import CSS from "../assets/TechIcons/css3.png";
+// import Django from "../assets/TechIcons/django.png";
+// import Docker from "../assets/TechIcons/docker.png";
+// import FastAPI from "../assets/TechIcons/fastapi.svg";
+// import Firebase from "../assets/TechIcons/firebase.svg";
+// import Flask from "../assets/TechIcons/flask.png";
+// import Git from "../assets/TechIcons/git.png";
+// import HTML5 from "../assets/TechIcons/html5.png";
+// import JavaScript from "../assets/TechIcons/javascript.png";
+// import Linux from "../assets/TechIcons/linux.png";
+import MongoDB from "../assets/TechIcons/mongodb.png";
+import MySQL from "../assets/TechIcons/mysql.png";
+import NextJS from "../assets/TechIcons/nextjs.svg";
+import NodeJS from "../assets/TechIcons/nodejs.svg";
+// import PostgreSQL from "../assets/TechIcons/postgresql.png";
+import Python from "../assets/TechIcons/python.png";
+import React from "../assets/TechIcons/react.svg";
+// import Redux from "../assets/TechIcons/redux.svg";
+// import Stripe from "../assets/TechIcons/stripe.svg";
+import TailwindCSS from "../assets/TechIcons/tailwind.png";
+// import TypeScript from "../assets/TechIcons/typescript.svg";
+// import Vite from "../assets/TechIcons/vite.svg";
+import Supabase from "../assets/TechIcons/supabase.png";
+
+// Shopify, wordpress, figma, canva, chatgpt, langchain, tensorflow, pytorch, aws, gcp, vercel
+
+export const TechstackIcons = {
+    React,
+    NodeJS,
+    TailwindCSS,
+    NextJS,
+    MongoDB,
+    Python,
+    Supabase,
+    MySQL,
+    // Django,
+    // FastAPI,
+    // HTML5,
+    // CSS,
+    // JavaScript,
+    // Redux,
+    // PostgreSQL,
+    // Firebase,
+    // TypeScript,
+    // Flask,
+    // Git,
+    // Linux,
+    // Docker,
+    // Stripe,
+    // Vite,
+};
 
 export const featureString = [
     ["Fast Shipping", Rocket],
@@ -34,6 +87,7 @@ export const smIcons = {
 
 export const icons = {
     RightArrow,
+    Sparkles,
 };
 
 export const services = [
@@ -78,13 +132,13 @@ export const services = [
         ],
     ],
     [
-        "SEO and Marketing",
+        "Designing",
         [
-            "Keyword Strategy",
-            "Email Campaigns",
-            "Blogging and Content Creation",
-            "Page optimizations",
-            "Analytics Reporting",
+            "Poster Designing",
+            "Video Editing",
+            "Social Media Content Creation",
+            "Web Designing",
+            "Logo, PPT and Reels",
         ],
     ],
 ];
